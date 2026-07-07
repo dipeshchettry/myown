@@ -134,7 +134,7 @@ This is a static site, so it requires zero build configuration. Just drag and dr
 - **Name**: Dipesh Bham
 - **Role**: Full Stack Developer, Editor & UI/UX Designer
 - **Website**: [dipeshbham.com.np](https://dipeshbham.com.np)
-- **LinkedIn**: [Dipesh Bham](https://np.linkedin.com/in/dipesh-bham-b06199378)
+- **LinkedIn**: [Dipesh Bham](https://www.linkedin.com/in/dipesheey)
 - **Instagram**: [@_dipesh.x](https://instagram.com/_dipesh.x)
 - **GitHub**: [@dipeshchettry](https://github.com/dipeshchettry)
 
